@@ -1,0 +1,7 @@
+[project]
+name = "dlp-grab"
+version = "0.1.0"
+description = "A lightweight Python CLI wrapper for yt-dlp that simplifies video downloads using configurable format preferences and presets."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
